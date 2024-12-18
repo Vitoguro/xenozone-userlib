@@ -1,0 +1,5215 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "Ektb0raT-_bpAUzjq",
+			"description": "Armaduras",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "eGDdTSLp8buQcy9eC",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eViRaPM_yneZYM1ka"
+					},
+					"description": "Fur Loincloth",
+					"reference": "B283",
+					"notes": "Flexible, concealable",
+					"tech_level": "0",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 10,
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "eT9ewkHKZ-FaR4IzT",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eE9YDq0au3FVMOGn_"
+					},
+					"description": "Fur Tunic",
+					"reference": "B283",
+					"notes": "Flexible, concealable",
+					"tech_level": "0",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 25,
+					"weight": "2 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso",
+								"vitals"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 25,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "ewioEyTCC5vSeHPl_",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ehIxhuv_8_PA8EnPd"
+					},
+					"description": "Cloth Armor",
+					"reference": "B283",
+					"notes": "Flexible, concealable",
+					"tech_level": "1",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 30,
+					"weight": "6 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin",
+								"torso",
+								"vitals"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 30,
+						"extended_weight": "6 lb"
+					}
+				},
+				{
+					"id": "eq-zl2OpNerh6Y5pD",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eLUoq82xnnC1U0cXM"
+					},
+					"description": "Leather Armor",
+					"reference": "B283",
+					"tech_level": "1",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 100,
+					"weight": "10 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin",
+								"torso",
+								"vitals"
+							],
+							"amount": 2
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "10 lb"
+					}
+				},
+				{
+					"id": "ehTy0DtfzbFUYG4JY",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eORWsWyeixo42dn9p"
+					},
+					"description": "Leather Jacket",
+					"reference": "B283",
+					"notes": "Flexible, concealable",
+					"tech_level": "1",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 50,
+					"weight": "4 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm",
+								"torso",
+								"vitals"
+							],
+							"amount": 1
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "4 lb"
+					}
+				},
+				{
+					"id": "ecpUMl68q_X9T_Yxo",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eRA26uszm1kmjCNFD"
+					},
+					"description": "Buff Coat (Leather)",
+					"reference": "B283",
+					"notes": "Flexible",
+					"tech_level": "4",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 210,
+					"weight": "16 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm",
+								"leg",
+								"torso",
+								"vitals"
+							],
+							"amount": 2
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 210,
+						"extended_weight": "16 lb"
+					}
+				},
+				{
+					"id": "e6V6AuAd1t_f8AYCV",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eh5c7mKvrUAKqZIqM"
+					},
+					"description": "Flak Jacket",
+					"reference": "B284",
+					"tech_level": "6",
+					"legality_class": "3",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 500,
+					"weight": "20 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso",
+								"vitals"
+							],
+							"amount": 7
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fZ-r0p54Jpeh0XjF5",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2000,
+						"extended_weight": "20 lb"
+					}
+				},
+				{
+					"id": "e6LNu6MniqZHEBodg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "esibVNd_XTzSQA8lw"
+					},
+					"description": "Frag Vest",
+					"reference": "B284",
+					"tech_level": "7",
+					"legality_class": "3",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 350,
+					"weight": "9 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin",
+								"torso",
+								"vitals"
+							],
+							"amount": 5
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f4vptvd33gyObUfKn",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fQbNBbUCc90zwwZ3J"
+							},
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2800,
+						"extended_weight": "9 lb"
+					}
+				},
+				{
+					"id": "e4vckzEHyrh_WCPYA",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eTa0_Mjz5F5zYZZXo"
+					},
+					"description": "Frag Vest Plate Inserts",
+					"reference": "B284",
+					"tech_level": "7",
+					"legality_class": "3",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 300,
+					"weight": "15 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso",
+								"vitals"
+							],
+							"amount": 20
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fIqXh1oFPvnbyER5J",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fQbNBbUCc90zwwZ3J"
+							},
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2400,
+						"extended_weight": "15 lb"
+					}
+				},
+				{
+					"id": "eB0cAuAsix11-uJZL",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eY9E_nxAkdxOGs37l"
+					},
+					"description": "NBC Suit",
+					"reference": "B285",
+					"tech_level": "7",
+					"tags": [
+						"Environment Suits"
+					],
+					"value": 150,
+					"weight": "3.5 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "skill_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "nbc suit"
+								}
+							}
+						]
+					},
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm",
+								"foot",
+								"groin",
+								"hand",
+								"leg",
+								"neck",
+								"skull",
+								"torso",
+								"vitals"
+							],
+							"specialization": "burning or corrosion",
+							"amount": 1
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f4z9VGLGAoPHlhuZ_",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fQbNBbUCc90zwwZ3J"
+							},
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 1200,
+						"extended_weight": "3.5 lb"
+					}
+				},
+				{
+					"id": "e-6cAed_u_mtmuJDR",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eihDyYJCQfC3KFMMf"
+					},
+					"description": "Ballistic Vest",
+					"reference": "B284",
+					"tech_level": "8",
+					"legality_class": "3",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 400,
+					"weight": "2 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso",
+								"vitals"
+							],
+							"amount": 8
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fEQjeRpkvXzkQyyb4",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fv0III0Uqb5gd8dNA"
+							},
+							"name": "TL8 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x16"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 6400,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eyhEVbP6iTy4cG2uS",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eLmBppzUL1rhTOrFf"
+					},
+					"description": "Tactical Vest",
+					"reference": "B284",
+					"tech_level": "8",
+					"legality_class": "2",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 900,
+					"weight": "9 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin",
+								"torso",
+								"vitals"
+							],
+							"amount": 12
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fd-nJqWa074oShT7H",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fv0III0Uqb5gd8dNA"
+							},
+							"name": "TL8 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x16"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 14400,
+						"extended_weight": "9 lb"
+					}
+				},
+				{
+					"id": "ePw4GNFqOMe4sowtR",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eHZq4WBWqjKj2czeV"
+					},
+					"description": "Tactical Vest Trauma Plates",
+					"reference": "B284",
+					"tech_level": "8",
+					"legality_class": "2",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 600,
+					"weight": "9 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso",
+								"vitals"
+							],
+							"amount": 23
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f8qiCEt8P5Go84DN8",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fv0III0Uqb5gd8dNA"
+							},
+							"name": "TL8 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x16"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 9600,
+						"extended_weight": "9 lb"
+					}
+				},
+				{
+					"id": "e_QT8pJxvhmEH4osi",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eV7I0UtpSRRcR_i5b"
+					},
+					"description": "Ballistic Suit",
+					"reference": "B284",
+					"tech_level": "9",
+					"legality_class": "3",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 1000,
+					"weight": "6 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm",
+								"leg",
+								"torso",
+								"vitals"
+							],
+							"amount": 12
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fMJcfT4_7pxCimBCW",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 32000,
+						"extended_weight": "6 lb"
+					}
+				},
+				{
+					"id": "eGUsV6SN9uioXbCs3",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ecFsdsLEZRiaDnDcf"
+					},
+					"description": "Ballistic Vest",
+					"reference": "B284",
+					"tech_level": "9",
+					"legality_class": "3",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 400,
+					"weight": "2 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso",
+								"vitals"
+							],
+							"amount": 12
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f3d0YS8aBpbQYBXt7",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 12800,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eU9MSTxmOwh279TbK",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "ehir2-rTFgHtsQ0mk"
+					},
+					"description": "Heavy Exoskeleton",
+					"reference": "UT182",
+					"notes": "Ham-Fisted. DR20 vs. swinging melee attacks, falls, and collisions only. E/24hr.",
+					"tech_level": "9",
+					"legality_class": "3",
+					"tags": [
+						"Armor",
+						"Defenses"
+					],
+					"value": 50000,
+					"weight": "200 lb",
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"limitation": "lifting_only",
+							"attribute": "st",
+							"amount": 12
+						},
+						{
+							"type": "attribute_bonus",
+							"limitation": "striking_only",
+							"attribute": "st",
+							"amount": 8
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fRLc_NaA1TsY3XBXj",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 1600000,
+						"extended_weight": "200 lb"
+					}
+				},
+				{
+					"id": "esbzC2Y9tx80-E9_P",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "erWKJ_tLckH9vTlb0"
+					},
+					"description": "Light Exoskeleton",
+					"reference": "UT182",
+					"notes": "DR10 vs. swinging melee attacks, falls, and collisions only. Does not cover extremities. D/12hr.",
+					"tech_level": "9",
+					"legality_class": "3",
+					"tags": [
+						"Armor",
+						"Defenses"
+					],
+					"value": 25000,
+					"weight": "50 lb",
+					"features": [
+						{
+							"type": "attribute_bonus",
+							"limitation": "lifting_only",
+							"attribute": "st",
+							"amount": 10
+						},
+						{
+							"type": "attribute_bonus",
+							"limitation": "lifting_only",
+							"attribute": "st",
+							"amount": 6
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fQofpNyRTZwvdx2KT",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 800000,
+						"extended_weight": "50 lb"
+					}
+				},
+				{
+					"id": "Es029JpdQ4f2q16dC",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "E9u_QwovpE61gK1GO"
+					},
+					"description": "Lower Body Exoskeleton",
+					"reference": "UT182",
+					"notes": "2D/24hr.",
+					"tech_level": "9",
+					"tags": [
+						"Armor",
+						"Cargo",
+						"Defenses"
+					],
+					"value": 12000,
+					"weight": "30 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "contained_weight_prereq",
+								"has": true,
+								"qualifier": {
+									"compare": "at_most",
+									"qualifier": "70 lb"
+								}
+							}
+						]
+					},
+					"modifiers": [
+						{
+							"id": "fxEWJH449uaeCqQd0",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 384000,
+						"extended_weight": "30 lb"
+					}
+				},
+				{
+					"id": "eobVgnS-GWPO0cxNV",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e4X2DJUJMMMRD8v67"
+					},
+					"description": "NBC Suit",
+					"reference": "B285",
+					"notes": "Does not limit DX",
+					"tech_level": "9",
+					"tags": [
+						"Environment Suits"
+					],
+					"value": 150,
+					"weight": "3.5 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "skill_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "nbc suit"
+								}
+							}
+						]
+					},
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm",
+								"foot",
+								"groin",
+								"hand",
+								"leg",
+								"neck",
+								"skull",
+								"torso",
+								"vitals"
+							],
+							"specialization": "burning or corrosion",
+							"amount": 1
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fNPHAInN_5vuUQKbr",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 4800,
+						"extended_weight": "3.5 lb"
+					}
+				},
+				{
+					"id": "eOKV0mSOMr49WJrjd",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "eF1KpQUNI45KzlTye"
+					},
+					"description": "Power Sleeve",
+					"reference": "UT182",
+					"notes": "Arm ST+6 to ONE arm. DR8 vs. swinging melee attacks, falls, and collisions on one arm and hand only. C/12hr.",
+					"tech_level": "9",
+					"tags": [
+						"Armor",
+						"Defenses"
+					],
+					"value": 2000,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fGuNKFYpOJct3U2yi",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 64000,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "es9WJ9yQhMOR-bbXk",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "eHB84hJh4oKrMRuim"
+					},
+					"description": "Powered Combat Armor",
+					"reference": "UT186",
+					"notes": "Super Jump 1. E/18hr.",
+					"tech_level": "9",
+					"legality_class": "1",
+					"tags": [
+						"Armor",
+						"Defenses"
+					],
+					"value": 80000,
+					"weight": "150 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"eye"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"skull"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"face"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"neck"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"vitals"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"hand"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"leg"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"foot"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"tail"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"wing"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"fin"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"brain"
+							],
+							"amount": 50
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"torso"
+							],
+							"amount": 20
+						},
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"vitals"
+							],
+							"amount": 20
+						},
+						{
+							"type": "attribute_bonus",
+							"limitation": "lifting_only",
+							"attribute": "st",
+							"amount": 10
+						},
+						{
+							"type": "attribute_bonus",
+							"limitation": "striking_only",
+							"attribute": "st",
+							"amount": 10
+						},
+						{
+							"type": "attribute_bonus",
+							"attribute": "sm",
+							"amount": 1
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fdOWs5suP5KRJdES3",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2560000,
+						"extended_weight": "150 lb"
+					}
+				},
+				{
+					"id": "eKopluvH3T0QLhZl2",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "eJj-IFbWuT6z0xIzU"
+					},
+					"description": "Powered Combat Armor: Helmet",
+					"reference": "UT186",
+					"notes": "C/18hr.",
+					"tech_level": "9",
+					"legality_class": "1",
+					"tags": [
+						"Armor",
+						"Defenses"
+					],
+					"value": 10000,
+					"weight": "15 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"skull"
+							],
+							"amount": 20
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f97oPph0JzU4gcoty",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 320000,
+						"extended_weight": "15 lb"
+					}
+				},
+				{
+					"id": "eGYyphMR7r0gEKXKf",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eQ074b2p-BfWZgdLR"
+					},
+					"description": "Tactical Suit",
+					"reference": "B284",
+					"tech_level": "9",
+					"legality_class": "2",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 3000,
+					"weight": "15 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "skill_prereq",
+								"has": true,
+								"name": {
+									"compare": "is",
+									"qualifier": "nbc suit"
+								}
+							}
+						]
+					},
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"arm",
+								"foot",
+								"groin",
+								"hand",
+								"leg",
+								"neck",
+								"skull",
+								"torso",
+								"vitals"
+							],
+							"amount": 20
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fNp7V-BGWeRIfNNOy",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 96000,
+						"extended_weight": "15 lb"
+					}
+				},
+				{
+					"id": "eoZ3FniKxIdSVePOB",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ehoprHmeBJkIAJDpf"
+					},
+					"description": "Tactical Vest",
+					"reference": "B284",
+					"tech_level": "9",
+					"legality_class": "2",
+					"tags": [
+						"Body Armor"
+					],
+					"value": 900,
+					"weight": "9 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"groin",
+								"torso",
+								"vitals"
+							],
+							"amount": 18
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fHODgDsxYK2_NS33u",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 28800,
+						"extended_weight": "9 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 5941625,
+				"extended_weight": "588 lb"
+			}
+		},
+		{
+			"id": "ELYbF63cwce5rKWB-",
+			"description": "Armas Improvisadas",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "eWjk8TskqBGoE5GI3",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e8gVzyNh3vsmHPhlu"
+					},
+					"description": "2x4",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 5,
+					"weight": "3 lb",
+					"weapons": [
+						{
+							"id": "wfVk6_yFZvJnd1Htg",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "2"
+							},
+							"strength": "9†",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Sword"
+								},
+								{
+									"type": "skill",
+									"name": "Broadsword",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw+2 cr"
+							}
+						},
+						{
+							"id": "wdlGYfY4VlpU1Iv78",
+							"damage": {
+								"type": "cr",
+								"st": "thr",
+								"base": "1"
+							},
+							"strength": "9†",
+							"usage": "Thrust",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Sword"
+								},
+								{
+									"type": "skill",
+									"name": "Broadsword",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "thr+1 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fabvUWCXoQMVrG3TO",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "eelYr3dc8w8QoVeYp",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "em0o49ck_pMRAo6dY"
+					},
+					"description": "Baseball Bat",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 25,
+					"weight": "2 lb",
+					"weapons": [
+						{
+							"id": "w2XDSGUtpnJaxetr4",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "1"
+							},
+							"strength": "8",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Flail",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw+1 cr"
+							}
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 25,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eTE1djztpoxi4ibpe",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e0Qjfp5_f0MyKDcom"
+					},
+					"description": "Board with Nail",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 5,
+					"weight": "2 lb",
+					"weapons": [
+						{
+							"id": "w-N7JELgJap3Pq2YK",
+							"damage": {
+								"type": "imp",
+								"st": "sw",
+								"base": "-2"
+							},
+							"strength": "8",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "-1U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Flail",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw-2 imp"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fquDSpEmaWFa3uDrg",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eGCJ732Cbch8HcROa",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eS07i7GdKAnP4TVag"
+					},
+					"description": "Box Cutter",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 2,
+					"weight": "0.25 lb",
+					"weapons": [
+						{
+							"id": "wqZgUJ10HTL9vk1VQ",
+							"damage": {
+								"type": "cut",
+								"st": "sw",
+								"base": "-3"
+							},
+							"strength": "5",
+							"usage": "Swing",
+							"reach": "C,1",
+							"parry": "-1",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Knife"
+								},
+								{
+									"type": "skill",
+									"name": "Shortsword",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw-3 cut"
+							}
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2,
+						"extended_weight": "0.25 lb"
+					}
+				},
+				{
+					"id": "ees75QpLczE-d6w0i",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "ekmcL335mRy7s-oF5"
+					},
+					"description": "Chain",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 20,
+					"weight": "5 lb",
+					"weapons": [
+						{
+							"id": "wE0-zonLK5wEb_qbM",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "1"
+							},
+							"strength": "11",
+							"usage": "Strike",
+							"reach": "1-4*",
+							"parry": "-2U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -6
+								},
+								{
+									"type": "skill",
+									"name": "Kusari"
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Flail",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Whip",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw+1 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fLblJl7rKz4ZTDHnN",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 20,
+						"extended_weight": "5 lb"
+					}
+				},
+				{
+					"id": "ewXiceqnCuKXwa4P1",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "ee8bLL0mJV1b2TNa7"
+					},
+					"description": "Digging Pick",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 35,
+					"weight": "2 lb",
+					"weapons": [
+						{
+							"id": "wKRtQnhzYESak32dl",
+							"damage": {
+								"type": "imp",
+								"st": "sw"
+							},
+							"strength": "10",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Flail",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw imp"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fG7hkVcpCzw4TmCZr",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 35,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "etH5h_I589ViSkykw",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e8XA94mbZaXoCh3OW"
+					},
+					"description": "Golf Club",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 25,
+					"weight": "1.5 lb",
+					"weapons": [
+						{
+							"id": "wbPAnjSvoiAaJAq8O",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "1"
+							},
+							"strength": "10†",
+							"usage": "Swing",
+							"reach": "1-2",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace",
+									"modifier": -3
+								},
+								{
+									"type": "skill",
+									"name": "Polearm",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Flail",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw+1 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fysd-i6R6A7MlqCYM",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 25,
+						"extended_weight": "1.5 lb"
+					}
+				},
+				{
+					"id": "ePKNvFfnvwbCyRcWw",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eimdm1k-Lx-DcfaDE"
+					},
+					"description": "Hammer",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 15,
+					"weight": "3 lb",
+					"weapons": [
+						{
+							"id": "wgJL1y85PLKMezouI",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "2"
+							},
+							"strength": "10",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Flail",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw+2 cr"
+							}
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 15,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "eML8TBpRMt_EA9DeS",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "exTbtbkSKmqD1Fueu"
+					},
+					"description": "Pitchfork",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 20,
+					"weight": "5 lb",
+					"weapons": [
+						{
+							"id": "wxD5jjN0uMxvUFSZ1",
+							"damage": {
+								"type": "imp",
+								"st": "thr",
+								"base": "3",
+								"armor_divisor": 0.5
+							},
+							"strength": "11",
+							"usage": "One-Handed",
+							"reach": "1*",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Spear"
+								},
+								{
+									"type": "skill",
+									"name": "Polearm",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Staff",
+									"modifier": -2
+								}
+							],
+							"calc": {
+								"damage": "thr+3(0.5) imp"
+							}
+						},
+						{
+							"id": "wn8VCa6SpqJpY88TT",
+							"damage": {
+								"type": "imp",
+								"st": "thr",
+								"base": "4",
+								"armor_divisor": 0.5
+							},
+							"strength": "10†",
+							"usage": "Two-Handed",
+							"reach": "1-2*",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Spear"
+								},
+								{
+									"type": "skill",
+									"name": "Polearm",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Staff",
+									"modifier": -2
+								}
+							],
+							"calc": {
+								"damage": "thr+4(0.5) imp"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fCK0dVcRxGr6RlaGE",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 20,
+						"extended_weight": "5 lb"
+					}
+				},
+				{
+					"id": "er5m8XyqeQGzgyT96",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e7AuYTMHV-x5QB0sG"
+					},
+					"description": "Post-Hole Digger",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 60,
+					"weight": "12 lb",
+					"weapons": [
+						{
+							"id": "wA25N-v13ZNFKMkPH",
+							"damage": {
+								"type": "cut",
+								"st": "thr",
+								"base": "2"
+							},
+							"strength": "13†",
+							"usage": "Thrust",
+							"reach": "1-2*",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Spear"
+								},
+								{
+									"type": "skill",
+									"name": "Polearm",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Staff",
+									"modifier": -2
+								}
+							],
+							"calc": {
+								"damage": "thr+2 cut"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fLZHKqTx4IoeJRS0x",
+							"name": "SP -4",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -4
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 60,
+						"extended_weight": "12 lb"
+					}
+				},
+				{
+					"id": "eh1zh1V4puICwGGIh",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "ensxQTBRhrx6IsevP"
+					},
+					"description": "Rebar and Concrete",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 10,
+					"weight": "13 lb",
+					"weapons": [
+						{
+							"id": "wRkobe3x6nGFc0K5X",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "5"
+							},
+							"strength": "15‡",
+							"usage": "Swing",
+							"reach": "2-3*",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Polearm"
+								},
+								{
+									"type": "skill",
+									"name": "Spear",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Staff",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw+5 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fB8A-vdLTG73k9Sgl",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "13 lb"
+					}
+				},
+				{
+					"id": "evCsPLNx3SKZ2ZMYR",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e2OO_8rU3ZdM6Kijx"
+					},
+					"description": "Rebar, Long",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 5,
+					"weight": "3 lb",
+					"weapons": [
+						{
+							"id": "w5UifW83eZ-hsUWCY",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "1"
+							},
+							"strength": "10",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Broadsword"
+								},
+								{
+									"type": "skill",
+									"name": "Shortsword",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Sword",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw+1 cr"
+							}
+						},
+						{
+							"id": "wg9mbYTmOhSJkVN_U",
+							"damage": {
+								"type": "cr",
+								"st": "thr",
+								"base": "1"
+							},
+							"strength": "10",
+							"usage": "Thrust",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Broadsword"
+								},
+								{
+									"type": "skill",
+									"name": "Shortsword",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Sword",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "thr+1 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fanPtEHIzLoWen2WS",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "esUDg1qghzZVHHy2c",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e6uWN5yNDg1-CFN8M"
+					},
+					"description": "Rebar, Short",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 3,
+					"weight": "1 lb",
+					"weapons": [
+						{
+							"id": "w6rJu5L97oagxJOp4",
+							"damage": {
+								"type": "cr",
+								"st": "sw"
+							},
+							"strength": "6",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Shortsword"
+								},
+								{
+									"type": "skill",
+									"name": "Broadsword",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": "Knife",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw cr"
+							}
+						},
+						{
+							"id": "w9NbXtXPxTrvy-Blv",
+							"damage": {
+								"type": "cr",
+								"st": "thr"
+							},
+							"strength": "6",
+							"usage": "Thrust",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Shortsword"
+								},
+								{
+									"type": "skill",
+									"name": "Broadsword",
+									"modifier": -2
+								},
+								{
+									"type": "skill",
+									"name": "Knife",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "thr cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f3UdGmUyfxoY9hn2I",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 3,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "ed8thP-b6Q6k4UXfo",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eJ9PPUqeclrnK4RzN"
+					},
+					"description": "Screwdriver",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 2,
+					"weight": "0.25 lb",
+					"weapons": [
+						{
+							"id": "wETgrSKJlN5mltE0l",
+							"damage": {
+								"type": "imp",
+								"st": "thr",
+								"base": "-2"
+							},
+							"strength": "5",
+							"usage": "Thrust",
+							"reach": "C",
+							"parry": "-1",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Knife"
+								},
+								{
+									"type": "skill",
+									"name": "Shortsword",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "thr-2 imp"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f8IMZBSMgCQa_oD5u",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2,
+						"extended_weight": "0.25 lb"
+					}
+				},
+				{
+					"id": "eFAYgU7MplMQcVA4q",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eXFE2TTsqc6GckVCG"
+					},
+					"description": "Shovel",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 12,
+					"weight": "6 lb",
+					"weapons": [
+						{
+							"id": "wkOX0Pb8JDy6Pes0B",
+							"damage": {
+								"type": "cut",
+								"st": "sw",
+								"base": "3"
+							},
+							"strength": "12†",
+							"usage": "Swing",
+							"reach": "1-2*",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace",
+									"modifier": -3
+								},
+								{
+									"type": "skill",
+									"name": "Polearm",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Flail",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw+3 cut"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "ft68VWeQYap2NGluC",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 12,
+						"extended_weight": "6 lb"
+					}
+				},
+				{
+					"id": "ePx8wl4ujpTuUP3Qr",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "evGQkEPkYf6equ72A"
+					},
+					"description": "Sledgehammer",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 10,
+					"weight": "15 lb",
+					"weapons": [
+						{
+							"id": "wHLYeeS4dxOEV1c3h",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "4"
+							},
+							"strength": "13†",
+							"usage": "Swing",
+							"reach": "1-2*",
+							"parry": "0U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace",
+									"modifier": -3
+								},
+								{
+									"type": "skill",
+									"name": "Polearm",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Flail",
+									"modifier": -4
+								}
+							],
+							"calc": {
+								"damage": "sw+4 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fMXX8xZ7q3aRxfIQS",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "15 lb"
+					}
+				},
+				{
+					"id": "eDI4lk9uOenV6m0m0",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "ePV0KMI3RUo6w2qKL"
+					},
+					"description": "Tire Iron",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 15,
+					"weight": "2 lb",
+					"weapons": [
+						{
+							"id": "wH4hvMwd41SDHu4qd",
+							"damage": {
+								"type": "cr",
+								"st": "sw",
+								"base": "1"
+							},
+							"strength": "10",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "0",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -5
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace"
+								},
+								{
+									"type": "skill",
+									"name": "Flail",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Axe/Mace",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw+1 cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fBisjEcFpZJ4MM9Nh",
+							"name": "SP -2",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -2
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 15,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eO1DbXwD5imJSbsqJ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e0wd3_QBhFtWOYW-8"
+					},
+					"description": "Weighted Scarf",
+					"reference": "ATE1:31",
+					"tech_level": "4",
+					"tags": [
+						"Melee Weapon"
+					],
+					"value": 5,
+					"weight": "1 lb",
+					"weapons": [
+						{
+							"id": "wMtw9V6nJ2VRRjvuT",
+							"damage": {
+								"type": "cr",
+								"st": "sw"
+							},
+							"strength": "6",
+							"usage": "Swing",
+							"reach": "1",
+							"parry": "-2U",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -6
+								},
+								{
+									"type": "skill",
+									"name": "Flail"
+								},
+								{
+									"type": "skill",
+									"name": "Axe/Mace",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Two-Handed Flail",
+									"modifier": -3
+								}
+							],
+							"calc": {
+								"damage": "sw cr"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fc6m0z_UnjIyqi4bS",
+							"name": "SP -1",
+							"reference": "ATE1:31",
+							"features": [
+								{
+									"type": "skill_bonus",
+									"selection_type": "this_weapon",
+									"amount": -1
+								}
+							]
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "1 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 274,
+				"extended_weight": "77 lb"
+			}
+		},
+		{
+			"id": "E9bnz7G9NC2RP-eej",
+			"description": "Baterias",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "ecMoGUdSLorX63Qg9",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e1Cfh4NqKYP-0-idr"
+					},
+					"description": "Batteries",
+					"reference": "B288",
+					"tech_level": "6",
+					"tags": [
+						"Communications and Information Gear"
+					],
+					"value": 1,
+					"modifiers": [
+						{
+							"id": "f5XCUnK0olJShbIsu",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 32,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "eOu4OfzbthR-K3J-Y",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "epRXtbtPNVTPIqIdo"
+					},
+					"description": "A cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 2,
+					"weight": "0.005 lb",
+					"modifiers": [
+						{
+							"id": "fUatBpocti2R8nZMg",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 64,
+						"extended_weight": "0.005 lb"
+					}
+				},
+				{
+					"id": "ekhqbghqSb4_OAE3b",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "e9eMPYuycgET26cAj"
+					},
+					"description": "AA Cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 1,
+					"weight": "0.0005 lb",
+					"modifiers": [
+						{
+							"id": "ftWrfbpJ0TA6BWRcK",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 32,
+						"extended_weight": "0.0005 lb"
+					}
+				},
+				{
+					"id": "e8aUOEl7KFgBn9idp",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "enQNM0RB6euc5mo7i"
+					},
+					"description": "B cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 3,
+					"weight": "0.05 lb",
+					"modifiers": [
+						{
+							"id": "f3TuNjHbUQtthEQ1C",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 96,
+						"extended_weight": "0.05 lb"
+					}
+				},
+				{
+					"id": "ezrMwwrbrXoggDQrV",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "ev80WwcnBpiGFrkol"
+					},
+					"description": "C cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 10,
+					"weight": "0.5 lb",
+					"modifiers": [
+						{
+							"id": "fa1D_yeij7ku1Vvda",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 320,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "exNyRgw7MDV5SCBS2",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "e_noIf9v8q1Okb3m9"
+					},
+					"description": "D cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 100,
+					"weight": "5 lb",
+					"modifiers": [
+						{
+							"id": "fiSa7l0Dn_RXTZX27",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 3200,
+						"extended_weight": "5 lb"
+					}
+				},
+				{
+					"id": "eXpqKEf5fH0ztJ4Qx",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "ejyOr96cOleWL3ndH"
+					},
+					"description": "E cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 2000,
+					"weight": "20 lb",
+					"modifiers": [
+						{
+							"id": "f1pq6SJM2vNTOd-HL",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 64000,
+						"extended_weight": "20 lb"
+					}
+				},
+				{
+					"id": "eDXof3XqFDtkkBR8K",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Ultra Tech\\Ultra Tech Equipment.eqp",
+						"id": "e5jsTeGt0I12k0yEb"
+					},
+					"description": "F cell",
+					"reference": "UT19",
+					"tech_level": "9",
+					"tags": [
+						"Power"
+					],
+					"value": 20000,
+					"weight": "200 lb",
+					"modifiers": [
+						{
+							"id": "fCIVvYfSD7KrdZrTW",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fr2hkQjLm5BFkUYTm"
+							},
+							"name": "TL9 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x32"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 640000,
+						"extended_weight": "200 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 707744,
+				"extended_weight": "225.5555 lb"
+			}
+		},
+		{
+			"id": "EqYCjJB1sZ7iKlRWq",
+			"description": "Consumíveis",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "e9XwF9Ljmto7axGNo",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eiEjJhscYmvyMJRUS"
+					},
+					"description": "Rations",
+					"reference": "ATE1:30",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear",
+						"Consumables"
+					],
+					"value": 2,
+					"weight": "0.5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "eESr6uvEQ9ZNALMZg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eusFtujJGNkJRR8ON"
+					},
+					"description": "Anti-Rad Drugs",
+					"reference": "ATE1:30",
+					"tech_level": "7",
+					"tags": [
+						"Consumables",
+						"Medical Gear"
+					],
+					"value": 500,
+					"weight": "0.1 lb",
+					"modifiers": [
+						{
+							"id": "fC1-u7QlKbEEeXzp3",
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 4000,
+						"extended_weight": "0.1 lb"
+					}
+				},
+				{
+					"id": "eJI1lwBKlLYY0zMcu",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eM_soWrTs-ACSqvka"
+					},
+					"description": "Chelating Agents",
+					"reference": "ATE1:30",
+					"tech_level": "7",
+					"tags": [
+						"Consumables",
+						"Medical Gear"
+					],
+					"value": 500,
+					"weight": "0.1 lb",
+					"modifiers": [
+						{
+							"id": "fmmOW9vHFi7exoik4",
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 4000,
+						"extended_weight": "0.1 lb"
+					}
+				},
+				{
+					"id": "eUiR5gyQgKyhD5kd9",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eSXXWhP-b5NVMTwOF"
+					},
+					"description": "MRE",
+					"reference": "ATE1:30",
+					"tech_level": "8",
+					"tags": [
+						"Camping and Survival Gear",
+						"Consumables"
+					],
+					"value": 5,
+					"weight": "1.5 lb",
+					"modifiers": [
+						{
+							"id": "f9G5cebIDtf1Drd-o",
+							"name": "TL8 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x16"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "1.5 lb"
+					}
+				},
+				{
+					"id": "emWUUhgVaDu5Ie4AZ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eogSE0CVBzevz9vUa"
+					},
+					"description": "GO!Juice",
+					"reference": "ATE1:30",
+					"tech_level": "?",
+					"tags": [
+						"Consumables"
+					],
+					"value": 100,
+					"weight": "0.25 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "0.25 lb"
+					}
+				},
+				{
+					"id": "eHWcqecrOFUDl72aG",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eXqx-B40z4bYbFf3M"
+					},
+					"description": "PatchUp Punch",
+					"reference": "ATE1:30",
+					"tech_level": "?",
+					"tags": [
+						"Consumables"
+					],
+					"value": 100,
+					"weight": "0.25 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "0.25 lb"
+					}
+				},
+				{
+					"id": "eGLMVXHMsYamhn8we",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "e5R1tbBYxA2HA2YYf"
+					},
+					"description": "SieverTasty",
+					"reference": "ATE1:30",
+					"tech_level": "?",
+					"tags": [
+						"Consumables"
+					],
+					"value": 100,
+					"weight": "0.25 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "0.25 lb"
+					}
+				},
+				{
+					"id": "e1d4eZkLIQtDM2_VM",
+					"description": "Cigarette",
+					"legality_class": "4",
+					"value": 1,
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 1,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "eHTsfilPbbDiSwnKI",
+					"description": "Vodka",
+					"legality_class": "4",
+					"value": 5,
+					"quantity": 1,
+					"equipped": true,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "0 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 8388,
+				"extended_weight": "2.95 lb"
+			}
+		},
+		{
+			"id": "Ecm9I0WJOO3jCxSI3",
+			"description": "Equipamento Médico",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "eMA-ufFa9AhwmhL5r",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eLt7ZoaK-NfuPNE_R"
+					},
+					"description": "Bandages",
+					"reference": "B289",
+					"notes": "Bandages for a  half-dozen wounds. Might be clean cloth, adhesive dressings, or spray-on \"Plastiskin\", depending on TL. Basic equipment for First Aid skill.",
+					"tech_level": "0",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 10,
+					"weight": "2 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "epSgL3yrnG_M2LILn",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eHoOTNeBiFqTk598H"
+					},
+					"description": "First Aid Kit",
+					"reference": "B289",
+					"notes": "A complete kit for treating wounds, with bandages, ointments, etc.",
+					"tech_level": "0",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 50,
+					"weight": "2 lb",
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "First Aid"
+							},
+							"amount": 1
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fBwLt0HfD6cP-1A36",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 200,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eZRYZmarmkROYcElM",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eXwmhzGUCny3k4r8I"
+					},
+					"description": "Surgical Instruments",
+					"reference": "B289",
+					"notes": "Includes scalpels, forceps, etc. Basic equipment for Surgery skill.",
+					"tech_level": "1",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 300,
+					"weight": "15 lb",
+					"modifiers": [
+						{
+							"id": "ffsOh6086xWXK02Yc",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fQbNBbUCc90zwwZ3J"
+							},
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2400,
+						"extended_weight": "15 lb"
+					}
+				},
+				{
+					"id": "erXSOQmhjsBmCXlcg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e4h9Lm5aCqBNjRJ45"
+					},
+					"description": "Antibiotic",
+					"reference": "B289",
+					"notes": "Prevents or cures (in 1d days) infections.",
+					"tech_level": "6",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 20,
+					"modifiers": [
+						{
+							"id": "fS9pjW7zFQjkACbjM",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "eaEQp8qih6MX0LizJ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eES-b-ipuZmJ3CkyP"
+					},
+					"description": "Antitoxin Kit",
+					"reference": "B289",
+					"notes": "Antidote for specific poison. 10 uses",
+					"tech_level": "6",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 25,
+					"weight": "0.5 lb",
+					"modifiers": [
+						{
+							"id": "fy1HK-1ALX4Fmu_A9",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "eJwYe5hJaaw4VM_mB",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eW4bxdltA1HsDcae9"
+					},
+					"description": "Crash Kit/TL6+",
+					"reference": "B289",
+					"notes": "A complete kit for treating serous injuries. Includes sterile bandages, sutures, and drugs appropriate for the TL. Includes IV drip, needle, and plasma. Counts as improvised gear (-5) for Surgery",
+					"tech_level": "6+",
+					"tags": [
+						"Medical Gear"
+					],
+					"value": 200,
+					"weight": "10 lb",
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "First Aid"
+							},
+							"amount": 2
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fijRa0rs4-z4DFo-C",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 800,
+						"extended_weight": "10 lb"
+					}
+				},
+				{
+					"id": "eSq1xNa24fCUMiHvk",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eusFtujJGNkJRR8ON"
+					},
+					"description": "Anti-Rad Drugs",
+					"reference": "ATE1:30",
+					"tech_level": "7",
+					"tags": [
+						"Consumables",
+						"Medical Gear"
+					],
+					"value": 500,
+					"weight": "0.1 lb",
+					"modifiers": [
+						{
+							"id": "fg5vQnaUGh2Jn3-MH",
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 4000,
+						"extended_weight": "0.1 lb"
+					}
+				},
+				{
+					"id": "ejQDoXufLqGICzA4w",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eM_soWrTs-ACSqvka"
+					},
+					"description": "Chelating Agents",
+					"reference": "ATE1:30",
+					"tech_level": "7",
+					"tags": [
+						"Consumables",
+						"Medical Gear"
+					],
+					"value": 500,
+					"weight": "0.1 lb",
+					"modifiers": [
+						{
+							"id": "f38iJtbbFtZVK-npu",
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 4000,
+						"extended_weight": "0.1 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 11590,
+				"extended_weight": "29.7 lb"
+			}
+		},
+		{
+			"id": "EpcW8Zn0Y0kMVl7au",
+			"description": "Equipamentos de Sobrevivência",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "EpaHS9DbXT5838F1t",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EWdo_3qnvFlJpicOV"
+					},
+					"description": "Shoulder Quiver",
+					"reference": "B289",
+					"notes": "Holds 12 arrows or bolts",
+					"tech_level": "0",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 10,
+					"weight": "0.5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "E5zrpbK3vOMbjmPrk",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EGQ2uP3rlucXSVNOh"
+					},
+					"description": "Lanyard, Woven Steel",
+					"reference": "B289",
+					"notes": "Lets you retrieve a dropped weapon on a DX roll. Each attempt requires a Ready maneuver. Can be cut: -6 to hit, DR 6, HP 4.",
+					"tech_level": "6",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 15,
+					"modifiers": [
+						{
+							"id": "fVR2FZ4KLtL3yeyto",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 60,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "ELVBe4uiBykINPnBP",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EkVrENk3w1A-FZF-L"
+					},
+					"description": "Lanyard, Leather",
+					"reference": "B289",
+					"notes": "Lets you retrieve a dropped weapon on a DX roll. Each attempt requires a Ready maneuver. Can be cut: -6 to hit, DR 2, HP 2.",
+					"tech_level": "0",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 1,
+					"quantity": 1,
+					"calc": {
+						"extended_value": 1,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "E4rg5Rz9NVyM2R1v0",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "E4oQluqzxd4la6m57"
+					},
+					"description": "Holster, Shoulder",
+					"reference": "B289",
+					"notes": "Allows use of Holdout, but gives -1 to Fast-Draw.",
+					"tech_level": "5",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 50,
+					"weight": "1 lb",
+					"modifiers": [
+						{
+							"id": "fwOxCk2PbBoaCPTwH",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f03xGN9Jjc5dbVgCo"
+							},
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "EiillTqTSb0yeXhpX",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EAkfUiW1QiOMrslcL"
+					},
+					"description": "Hip Quiver",
+					"reference": "B289",
+					"notes": "Holds 20 arrows or bolts",
+					"tech_level": "0",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 15,
+					"weight": "1 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 15,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "E_5Pk91PySXKCqp86",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EIJwAsTB3ogNV0BXI"
+					},
+					"description": "Holster, Belt",
+					"reference": "B289",
+					"notes": "Fits most pistols",
+					"tech_level": "5",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 25,
+					"weight": "0.5 lb",
+					"modifiers": [
+						{
+							"id": "fGc8FF0J_xgy03rzW",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f03xGN9Jjc5dbVgCo"
+							},
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "EIn29JyT7h8pPro8J",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "Emfgs9dOamGA224RK"
+					},
+					"description": "Web Gear",
+					"reference": "B289",
+					"notes": "Belt and suspenders with puches and rings for gear",
+					"tech_level": "6",
+					"tags": [
+						"Weapon and Combat Accessories"
+					],
+					"value": 50,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "frkxN8HRXvaDk2w3A",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						},
+						{
+							"id": "f1i_DxbeDaKNSkKyl",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 800,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eqYVoJOAsNu7D4ycs",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "etEasz_PbTeSpHWO2"
+					},
+					"description": "Cord, 3/16\", 10 yards",
+					"reference": "B288",
+					"notes": "Supports 90 lbs.",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 1,
+					"weight": "0.5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 1,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "ewg69DjPv2WSeC9Yh",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eZ_sLiKEmL7PQxshU"
+					},
+					"description": "Cord, 3/16\", 20 yards",
+					"reference": "B288",
+					"notes": "Supports 90 lbs.",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 2,
+					"weight": "1 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 2,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "eYbe7eFsh3xc9k2mg",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eXfaauPkmNBx-M87f"
+					},
+					"description": "Fishhooks \u0026 Line",
+					"reference": "B288",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 50,
+					"weight": "0.01 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "0.01 lb"
+					}
+				},
+				{
+					"id": "e5ANPvBSWhgJcPpU-",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eOEPKQwEjVba1F5uY"
+					},
+					"description": "Group Basics",
+					"reference": "B288",
+					"notes": "Basic equipment for Cooking and Survival skill for a group. Cook pot, rope, hatchet etc., for 3-8 campers.",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 50,
+					"weight": "20 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "20 lb"
+					}
+				},
+				{
+					"id": "esUFFyuK79AzauUAd",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e0z9DCZj3jzgLmFSf"
+					},
+					"description": "Personal Basics",
+					"reference": "B288",
+					"notes": "Minimum gear for camping: -2 to any Survival roll without it. Includes utensils, tinderbox or flint and steel, towel, etc., as TL permits.",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 5,
+					"weight": "1 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "e5c0k0enQzEqsBHlq",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eAwl5sDIREcG_-JRd"
+					},
+					"description": "Pole, 6'",
+					"reference": "B288",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 5,
+					"weight": "3 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "eN8IXJ00rIrzvjigG",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eSYejNt-K3UVhOHR5"
+					},
+					"description": "Pole, 10'",
+					"reference": "B288",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 8,
+					"weight": "5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 8,
+						"extended_weight": "5 lb"
+					}
+				},
+				{
+					"id": "eTz85_dlCuTrpwi5u",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eZ_XacMxyQscAnrjm"
+					},
+					"description": "Rope, 3/8\", 10 yards",
+					"reference": "B288",
+					"notes": "Supports 300 lbs.",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 5,
+					"weight": "1.5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "1.5 lb"
+					}
+				},
+				{
+					"id": "eH7c93hY964mHa5l5",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e-leNJbEL3xjLvaxf"
+					},
+					"description": "Rope, 3/8\", 20 yards",
+					"reference": "B288",
+					"notes": "Supports 300 lbs.",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 10,
+					"weight": "3 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "ePL494aCbyzrwRBgH",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eWI5GBxAiQHBev-yE"
+					},
+					"description": "Sleeping Fur",
+					"reference": "B288",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 50,
+					"weight": "8 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "8 lb"
+					}
+				},
+				{
+					"id": "eLl8ZMH3Vl8Bzps72",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ew2TvVbfCRin7PtHl"
+					},
+					"description": "Tent, 1-Man",
+					"reference": "B288",
+					"notes": "Includes ropes; no poles needed",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 50,
+					"weight": "5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "5 lb"
+					}
+				},
+				{
+					"id": "e8VwfCfiv4eySmd0U",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "exJIaZGS3dPdLpGS3"
+					},
+					"description": "Tent, 2-Man",
+					"reference": "B288",
+					"notes": "Includes ropes; requires one 6' pole",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 80,
+					"weight": "12 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "12 lb"
+					}
+				},
+				{
+					"id": "eI1cJFJeQzd7bNmQd",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ewUnPM9OHxLF4IttK"
+					},
+					"description": "Tent, 4-Man",
+					"reference": "B288",
+					"notes": "Includes ropes; requires two 6' poles",
+					"tech_level": "0",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 150,
+					"weight": "30 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 150,
+						"extended_weight": "30 lb"
+					}
+				},
+				{
+					"id": "EsSdnTq1kC2dx2g-J",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EwSOT_Sl-CS9v-TgB"
+					},
+					"description": "Backpack, Frame",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 100,
+					"weight": "10 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "contained_weight_prereq",
+								"has": true,
+								"qualifier": {
+									"compare": "at_most",
+									"qualifier": "100 lb"
+								}
+							}
+						]
+					},
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "10 lb"
+					}
+				},
+				{
+					"id": "EnRG37oVJuIkB_PPe",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ESjtIfyzScVP49ity"
+					},
+					"description": "Backpack, Small",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 60,
+					"weight": "3 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "contained_weight_prereq",
+								"has": true,
+								"qualifier": {
+									"compare": "at_most",
+									"qualifier": "40 lb"
+								}
+							}
+						]
+					},
+					"quantity": 1,
+					"calc": {
+						"extended_value": 60,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "eKZTpmjlr-W4SA0xN",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "edkDXWj1H2wdRQfys"
+					},
+					"description": "Blanket",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 20,
+					"weight": "4 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 20,
+						"extended_weight": "4 lb"
+					}
+				},
+				{
+					"id": "EjcZRM7dFJHnybNyQ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EVNlnrkD5kQt_OZbk"
+					},
+					"description": "Bottle, Ceramic",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 3,
+					"weight": "1 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "contained_weight_prereq",
+								"has": true,
+								"qualifier": {
+									"compare": "at_most",
+									"qualifier": "2 lb"
+								}
+							}
+						]
+					},
+					"quantity": 1,
+					"calc": {
+						"extended_value": 3,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "eca4uV8xAwHOXaGWf",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "evBjgg3zv1QlqT2O6"
+					},
+					"description": "Candle, Tallow",
+					"reference": "B288",
+					"notes": "Lasts 12 hours",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 5,
+					"weight": "1 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 5,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "Ec5ol75nCIzIA--rc",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "EYcpX5Ib_0vAti4WE"
+					},
+					"description": "Pouch, Small",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 10,
+					"weight": "0.5 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "contained_weight_prereq",
+								"has": true,
+								"qualifier": {
+									"compare": "at_most",
+									"qualifier": "3 lb"
+								}
+							}
+						]
+					},
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "EviO-t5c197_P80Sc",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ELc2Z1hX3uGCGtKI2"
+					},
+					"description": "Purse, Small",
+					"reference": "B288",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 10,
+					"weight": "0.2 lb",
+					"prereqs": {
+						"type": "prereq_list",
+						"all": true,
+						"prereqs": [
+							{
+								"type": "contained_weight_prereq",
+								"has": true,
+								"qualifier": {
+									"compare": "at_most",
+									"qualifier": "1 lb"
+								}
+							}
+						]
+					},
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "0.2 lb"
+					}
+				},
+				{
+					"id": "eFO3YAXrYvIi_oZzp",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eTyrSZG79lN5WAVi3"
+					},
+					"description": "Rope, 3/4\", 10 yards",
+					"reference": "B288",
+					"notes": "Supports 1,100 lbs.",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 25,
+					"weight": "5 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 25,
+						"extended_weight": "5 lb"
+					}
+				},
+				{
+					"id": "eCabyl_UCWg_b7nyO",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eNLb1KOItxm0vSDSq"
+					},
+					"description": "Rope, 3/4\", 20 yards",
+					"reference": "B288",
+					"notes": "Supports 1,100 lbs.",
+					"tech_level": "1",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 50,
+					"weight": "10 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "10 lb"
+					}
+				},
+				{
+					"id": "eUv4CvxEjRyvr3dlX",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eoFGGaoCNTxbd33bZ"
+					},
+					"description": "Climbing Gear",
+					"reference": "B288",
+					"notes": "Hammer, spikes, carabiners",
+					"tech_level": "2",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 20,
+					"weight": "4 lb",
+					"quantity": 1,
+					"calc": {
+						"extended_value": 20,
+						"extended_weight": "4 lb"
+					}
+				},
+				{
+					"id": "e2oT0WboRGD34zCZD",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eZo2RO2pAPj1o7vdc"
+					},
+					"description": "Grapnel",
+					"reference": "B288",
+					"notes": "Supports 300 lbs; throw to STx2 yards",
+					"tech_level": "5",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 20,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fkT9ZvDQJVwCpQq66",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f03xGN9Jjc5dbVgCo"
+							},
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 40,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eeQMKAJGkfZXEWnIi",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eZo2RO2pAPj1o7vdc"
+					},
+					"description": "Grapnel",
+					"reference": "B288",
+					"notes": "Supports 300 lbs; throw to STx2 yards",
+					"tech_level": "5",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 20,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fdpOuA4Cf8xjJxHDM",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f03xGN9Jjc5dbVgCo"
+							},
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 40,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eHvsB1zHSUat89jcL",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e3rFjTSDK30-6O2Zi"
+					},
+					"description": "Binoculars",
+					"reference": "B289",
+					"notes": "Gives (TL-4) levels of Telescopic Vision.",
+					"tech_level": "6",
+					"tags": [
+						"Optics and Sensors"
+					],
+					"value": 400,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fszUO2OSg5T8piKl5",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 1600,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eQsmgVEv16k8QHd0r",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "e7CaEPMjB3Ma63F8m"
+					},
+					"description": "Cigarette Lighter",
+					"reference": "B288",
+					"tech_level": "6",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 10,
+					"weight": "0.01 lb",
+					"modifiers": [
+						{
+							"id": "fzwymyMX0UYWxk6Ev",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 40,
+						"extended_weight": "0.01 lb"
+					}
+				},
+				{
+					"id": "erKrR-ZE7Xd4urKPF",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eM1vHDqStKF8XT9Zk"
+					},
+					"description": "Compass",
+					"reference": "B288",
+					"tech_level": "6",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 50,
+					"weight": "0.144 lb",
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "starts_with",
+								"qualifier": "navigation"
+							},
+							"amount": 1
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fW-r7PfSp4ovCiEI1",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 200,
+						"extended_weight": "0.144 lb"
+					}
+				},
+				{
+					"id": "ejgkhpxrYSG63keOl",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eXRmIV_DsOO1bevEv"
+					},
+					"description": "Flashlight, Heavy",
+					"reference": "B288",
+					"notes": "30' beam, lasts 5 hours",
+					"tech_level": "6",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 20,
+					"weight": "1 lb",
+					"modifiers": [
+						{
+							"id": "ft8FNf0GRM0yqlz0j",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "1 lb"
+					}
+				},
+				{
+					"id": "e2IXB_i2AzSLpw-cf",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eaRGjCvKg2weKYejv"
+					},
+					"description": "Sleeping Bag",
+					"reference": "B288",
+					"tech_level": "6",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 25,
+					"weight": "7 lb",
+					"modifiers": [
+						{
+							"id": "f0bxIWNfKkx-Ia-RN",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f8mC7m6EhvpU9rm0V"
+							},
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "7 lb"
+					}
+				},
+				{
+					"id": "eJrPTxSIF9XNRBN8y",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eiLUahRaD3Evkg-Wr"
+					},
+					"description": "Flashlight, Mini",
+					"reference": "B288",
+					"notes": "15' beam, lasts 1 hour",
+					"tech_level": "7",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 10,
+					"weight": "0.25 lb",
+					"modifiers": [
+						{
+							"id": "fu14ihyX8gr-QITk0",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fQbNBbUCc90zwwZ3J"
+							},
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "0.25 lb"
+					}
+				},
+				{
+					"id": "eoHptkt6i0e1NBgS8",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eKZrky-FLd84tzH7U"
+					},
+					"description": "GPS Receiver",
+					"reference": "B288",
+					"notes": "Satellite-updated, lasts 24 hours; Grants Absolute Direction (Requires Signal)",
+					"tech_level": "8",
+					"tags": [
+						"Camping and Survival Gear"
+					],
+					"value": 200,
+					"weight": "3 lb",
+					"modifiers": [
+						{
+							"id": "fxdIVw1UNtkAKzdPB",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fv0III0Uqb5gd8dNA"
+							},
+							"name": "TL8 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x16"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 3200,
+						"extended_weight": "3 lb"
+					}
+				},
+				{
+					"id": "e4OVZj-qUYZJ7fIoL",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ek2CTXpTDjJDErAjt"
+					},
+					"description": "Night Vision Goggles",
+					"reference": "B289",
+					"notes": "Give Night Vision 9. 8 hrs.",
+					"tech_level": "8",
+					"tags": [
+						"Optics and Sensors"
+					],
+					"value": 600,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fsloCrKliFLrXQBQp",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fv0III0Uqb5gd8dNA"
+							},
+							"name": "TL8 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x16"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 9600,
+						"extended_weight": "2 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 16785,
+				"extended_weight": "153.114 lb"
+			}
+		},
+		{
+			"id": "EvZvPFGIAZf-OcYEf",
+			"description": "Ferramentas",
+			"legality_class": "4",
+			"quantity": 1,
+			"equipped": true,
+			"children": [
+				{
+					"id": "eTJYenE9l0O5EZPck",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "ez-4XMjmMn3z_-AFi"
+					},
+					"description": "Lockpicks",
+					"reference": "B289",
+					"notes": "Basic equipment for Lockpicking skill",
+					"tech_level": "3",
+					"tags": [
+						"Law-Enforcement",
+						"Spy Gear",
+						"Thief"
+					],
+					"value": 50,
+					"quantity": 1,
+					"calc": {
+						"extended_value": 50,
+						"extended_weight": "0 lb"
+					}
+				},
+				{
+					"id": "ecHEA0O58NtIDEodP",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eR92vNL1Su3Uofy99"
+					},
+					"description": "Handcuffs",
+					"reference": "B289",
+					"tech_level": "5",
+					"tags": [
+						"Law-Enforcement",
+						"Spy Gear",
+						"Thief"
+					],
+					"value": 40,
+					"weight": "0.5 lb",
+					"features": [
+						{
+							"type": "skill_bonus",
+							"selection_type": "skills_with_name",
+							"name": {
+								"compare": "is",
+								"qualifier": "Escape"
+							},
+							"amount": -5
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fHGIjrAzobBw-uAKX",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "f03xGN9Jjc5dbVgCo"
+							},
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "eP6gE5xyHfjSEO3Ed",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "edX8V72z3XQaqQDEJ"
+					},
+					"description": "Lab, Suitcase",
+					"reference": "ATE1:29",
+					"notes": "Basic EQ for @Scientific Skill@",
+					"tech_level": "5",
+					"tags": [
+						"Tools"
+					],
+					"value": 3000,
+					"weight": "20 lb",
+					"modifiers": [
+						{
+							"id": "f-XAsBK1N5fDYFbWN",
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 6000,
+						"extended_weight": "20 lb"
+					}
+				},
+				{
+					"id": "egxc6-3DxyWfGCUYi",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eKiWizI4uydvdQsA2"
+					},
+					"description": "Multi-Tool",
+					"reference": "ATE1:30",
+					"tech_level": "5",
+					"tags": [
+						"Tools"
+					],
+					"value": 50,
+					"weight": "0.5 lb",
+					"modifiers": [
+						{
+							"id": "f1JmNaNLZT9nGhcSW",
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 100,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "egEkuU7l5eeghE3HR",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eyCQE5TQRALAwQq0t"
+					},
+					"description": "Reloading Press",
+					"reference": "ATE1:30",
+					"tech_level": "5",
+					"tags": [
+						"Tools"
+					],
+					"value": 100,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fnqCmw1EpareLpSU3",
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 200,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "evluvvHHR1c1PilHr",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eRD2FjaXEfvNOceG-"
+					},
+					"description": "Whistle",
+					"reference": "ATE1:30",
+					"tech_level": "5",
+					"tags": [
+						"Tools"
+					],
+					"value": 5,
+					"weight": "0.05 lb",
+					"modifiers": [
+						{
+							"id": "fO5qLuMH-0z7Vkf78",
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 10,
+						"extended_weight": "0.05 lb"
+					}
+				},
+				{
+					"id": "eBPHGDtl6m_FlhHd7",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eb2ZOkNm82dj1fSho"
+					},
+					"description": "Wire Cutters",
+					"reference": "ATE1:30",
+					"notes": "Only cuts cables, fences, etc.",
+					"tech_level": "5",
+					"tags": [
+						"Tools"
+					],
+					"value": 30,
+					"weight": "2 lb",
+					"weapons": [
+						{
+							"id": "wVzcqDIRoTMvzPsFi",
+							"damage": {
+								"type": "cut",
+								"base": "2d",
+								"armor_divisor": 2
+							},
+							"usage": "Cut",
+							"reach": "C",
+							"calc": {
+								"damage": "2d(2) cut"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f9PZQL_bpHY0YSacc",
+							"name": "TL5 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x2"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 60,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eaEd6j0pnMufDfzfZ",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "emezRgkZaUOhZaNOy"
+					},
+					"description": "Anomaly Detector",
+					"reference": "ATE1:29",
+					"notes": "4 hours",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 1600,
+					"weight": "4 lb",
+					"modifiers": [
+						{
+							"id": "fW1WVi7Ck0SCFkCCI",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 6400,
+						"extended_weight": "4 lb"
+					}
+				},
+				{
+					"id": "e_SDCew_FVLyjGriX",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "ek0K19_g1c0D4qsBG"
+					},
+					"description": "Bolt Cutters",
+					"reference": "ATE1:29",
+					"notes": "Only cuts padlocks, chains, etc.",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 30,
+					"weight": "15 lb",
+					"weapons": [
+						{
+							"id": "wAdJI3mL3rWASVekp",
+							"damage": {
+								"type": "cut",
+								"base": "8d",
+								"armor_divisor": 2
+							},
+							"usage": "Cut",
+							"reach": "C",
+							"calc": {
+								"damage": "8d(2) cut"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fkOOyjhOHYNAHYMFG",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 120,
+						"extended_weight": "15 lb"
+					}
+				},
+				{
+					"id": "eQlwhAln8u7g28uSo",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "emmovqTqAAKIGlbA6"
+					},
+					"description": "Duct Tape",
+					"reference": "ATE1:29",
+					"notes": "60-yard roll",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 1,
+					"weight": "2 lb",
+					"modifiers": [
+						{
+							"id": "fnr1t7Vj4tjXL2usW",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 4,
+						"extended_weight": "2 lb"
+					}
+				},
+				{
+					"id": "eWsbyrO8_0VImIkUB",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eiPnCmE1lQtsROXPG"
+					},
+					"description": "Dynamite Stick",
+					"reference": "ATE1:29",
+					"notes": "10-sec fuse",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 5,
+					"weight": "0.5 lb",
+					"weapons": [
+						{
+							"id": "Wjwg0vh_itKc1mGwe",
+							"damage": {
+								"type": "cr ex",
+								"base": "9d+1"
+							},
+							"usage": "Throw",
+							"range": "x3.5",
+							"rate_of_fire": "1",
+							"shots": "T",
+							"defaults": [
+								{
+									"type": "dx",
+									"modifier": -3
+								},
+								{
+									"type": "skill",
+									"name": "Dropping",
+									"modifier": -4
+								},
+								{
+									"type": "skill",
+									"name": "Throwing"
+								}
+							],
+							"calc": {
+								"damage": "9d+1 cr ex"
+							}
+						}
+					],
+					"modifiers": [
+						{
+							"id": "fC7rPPZkYQ2d2fiem",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 20,
+						"extended_weight": "0.5 lb"
+					}
+				},
+				{
+					"id": "eoLbPfm5TQUE2gRdq",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "emezRgkZaUOhZaNOy"
+					},
+					"description": "Geiger Counter",
+					"reference": "ATE1:29",
+					"notes": "4 hours",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 800,
+					"weight": "4 lb",
+					"modifiers": [
+						{
+							"id": "fUoKhIVXuJp_LHZGF",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 3200,
+						"extended_weight": "4 lb"
+					}
+				},
+				{
+					"id": "e1RyvPBEN8ee3uvJP",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eD_wD2p6oXTItxI_O"
+					},
+					"description": "Goggles, Tinted",
+					"reference": "ATE1:29",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 20,
+					"weight": "0.05 lb",
+					"features": [
+						{
+							"type": "dr_bonus",
+							"locations": [
+								"eye"
+							],
+							"amount": 1
+						}
+					],
+					"modifiers": [
+						{
+							"id": "f68r833nlkBVKGcrW",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 80,
+						"extended_weight": "0.05 lb"
+					}
+				},
+				{
+					"id": "exUgo6jnrSK-qMcHa",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eBQeEbz8LeTYhFkXP"
+					},
+					"description": "Spare Magazine",
+					"reference": "ATE1:32",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 35,
+					"weight": "0.2 lb",
+					"modifiers": [
+						{
+							"id": "f7TTFcSWax1K5jTg6",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 140,
+						"extended_weight": "0.2 lb"
+					}
+				},
+				{
+					"id": "eLYzIcLRwQ4cRsdgB",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "After the End\\After the End Equipment.eqp",
+						"id": "eBBTiQHBG_lIpBnxN"
+					},
+					"description": "Speedloader",
+					"reference": "ATE1:31",
+					"tech_level": "6",
+					"tags": [
+						"Tools"
+					],
+					"value": 10,
+					"weight": "0.1 lb",
+					"modifiers": [
+						{
+							"id": "fBpKUkk2722731vmc",
+							"name": "TL6 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x4"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 40,
+						"extended_weight": "0.1 lb"
+					}
+				},
+				{
+					"id": "eoULGIgnn62sGzewV",
+					"source": {
+						"library": "richardwilkes/gcs_master_library",
+						"path": "Basic Set\\Basic Set Equipment.eqp",
+						"id": "eETOcgd6amc__74vJ"
+					},
+					"description": "Electronic \"Lockpicks\"",
+					"reference": "B289",
+					"notes": "+2 to pick electronic locks",
+					"tech_level": "7",
+					"tags": [
+						"Law-Enforcement",
+						"Spy Gear",
+						"Thief"
+					],
+					"value": 1500,
+					"weight": "3 lb",
+					"modifiers": [
+						{
+							"id": "fgMdBCbNdIgebE3BF",
+							"source": {
+								"library": "richardwilkes/gcs_master_library",
+								"path": "After the End\\After the End Equipment Modifiers.eqm",
+								"id": "fQbNBbUCc90zwwZ3J"
+							},
+							"name": "TL7 Price Modifier",
+							"reference": "ATE1:29",
+							"cost_type": "to_final_cost",
+							"cost": "x8"
+						}
+					],
+					"quantity": 1,
+					"calc": {
+						"extended_value": 12000,
+						"extended_weight": "3 lb"
+					}
+				}
+			],
+			"calc": {
+				"extended_value": 28504,
+				"extended_weight": "53.9 lb"
+			}
+		}
+	]
+}

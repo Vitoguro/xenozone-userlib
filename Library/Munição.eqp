@@ -1,0 +1,145 @@
+{
+	"version": 5,
+	"rows": [
+		{
+			"id": "eCSwpj6aU2z5JX7e0",
+			"description": "Pistol/SMG Bullet",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 5,
+			"weight": "0.025 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 5,
+				"extended_weight": "0.025 lb"
+			}
+		},
+		{
+			"id": "ecgct-FUY7IXLL8Xy",
+			"description": "Rifle/LMG Bullet",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 10,
+			"weight": "0.05 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 10,
+				"extended_weight": "0.05 lb"
+			}
+		},
+		{
+			"id": "eRI332tZe5-iNWyhl",
+			"description": "Shotgun Bullet",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 10,
+			"weight": "0.05 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 10,
+				"extended_weight": "0.05 lb"
+			}
+		},
+		{
+			"id": "erpMRWXLxqNqciHwb",
+			"description": "HMG Bullet",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 50,
+			"weight": "0.25 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 50,
+				"extended_weight": "0.25 lb"
+			}
+		},
+		{
+			"id": "eR7QKibGNK9BbGYl6",
+			"description": "Grenade Launcher Ammo",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 200,
+			"weight": "0.5 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 200,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "eGW3ouXqykizdIpWx",
+			"description": "Flamethrower Fuel",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 5,
+			"weight": "2 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 5,
+				"extended_weight": "2 lb"
+			}
+		},
+		{
+			"id": "eIGp1W6XrWenqjsJK",
+			"description": "Paper Cartridge",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 1,
+			"weight": "0.05 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 1,
+				"extended_weight": "0.05 lb"
+			}
+		},
+		{
+			"id": "e5dGqgJYv1bABe2DW",
+			"description": "Power Pack, Internal",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 300,
+			"weight": "0.5 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 300,
+				"extended_weight": "0.5 lb"
+			}
+		},
+		{
+			"id": "eBWuQnyguJ0Wm3V9P",
+			"description": "Power Pack, External",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 3000,
+			"weight": "5 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 3000,
+				"extended_weight": "5 lb"
+			}
+		},
+		{
+			"id": "e_LQMitpMcffEPM-M",
+			"description": "Rocket Bullet (Gyroc)",
+			"reference": "ATE1:32",
+			"legality_class": "3",
+			"value": 150,
+			"weight": "0.1 lb",
+			"quantity": 1,
+			"equipped": true,
+			"calc": {
+				"extended_value": 150,
+				"extended_weight": "0.1 lb"
+			}
+		}
+	]
+}
